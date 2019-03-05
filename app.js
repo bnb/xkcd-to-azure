@@ -20,7 +20,7 @@ app.use(errorHandler)
 
 // Define default route
 app.get('/', (req, res) => {
-  res.send('Hello from XKCD-serv! 👋')
+  res.send('Hello from Docker! 👋')
 })
 
 // Define API
