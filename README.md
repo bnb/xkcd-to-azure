@@ -1,5 +1,7 @@
 # What have we done in this step
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/cutenode/xkcd-to-azure.svg)](https://greenkeeper.io/)
+
 We've Dockerized!
 
 The first step was adding a new npm script, `start`, which can be run to start our app via npm. We've added this as a tiny touch of developer expereince.
